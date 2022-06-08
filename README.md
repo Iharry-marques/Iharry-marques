@@ -28,3 +28,4 @@ Fundação Cásper Líbero.
    
   </div>
   
+![Snake animation](https://github.com/Iharry-marques/Iharry-marques/blob/output/github-contribution-grid-snake.svg)
