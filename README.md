@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou Fabio Marques 👋</h1>
 
 <p align="center">
-  Desenvolvedor Back-end em evolução, criando projetos com JavaScript, React e Node.js
+  Desenvolvedor em evolução, criando projetos com JavaScript, React e Node.js
 </p>
 
 <p align="center">
