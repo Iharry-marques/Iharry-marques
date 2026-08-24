@@ -23,4 +23,4 @@ Desenvolvedor Full Stack focado em backend (Python/Django, Node.js) e engenharia
 ## Contato
 
 - E-mail: fabio.marques.melo@gmail.com
-- LinkedIn: [seu link aqui]
+- Celular: 011 957791896
