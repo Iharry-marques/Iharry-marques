@@ -14,7 +14,6 @@ Desenvolvedor Full Stack focado em backend (Python/Django, Node.js) e engenharia
 - 💻 Full Stack Dev na Koro Creators — backend, automação e dados
 - 🔐 Interesse ativo em AppSec: descoberta e defesa de vulnerabilidades
 - 🤖 IA generativa aplicada ao fluxo de dev (Claude Code, MCP, spec-driven development)
-- 🎮 Nas horas vagas, construo um MMO 2D de artilharia por turnos em Godot 4
 
 ---
 
