@@ -10,7 +10,7 @@ Desenvolvedor Full Stack focado em backend (Python/Django, Node.js) e engenharia
 
 ## Sobre mim
 
-- 📍 Suzano - SP, Brasil
+- 📍 São Paulo - SP, Brasil
 - 💻 Full Stack Dev na Koro Creators — backend, automação e dados
 - 🔐 Interesse ativo em AppSec: descoberta e defesa de vulnerabilidades
 - 🤖 IA generativa aplicada ao fluxo de dev (Claude Code, MCP, spec-driven development)
